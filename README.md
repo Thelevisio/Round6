@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg" group-title="ABERTOS",T02EP01
 https://a102.filevideo1.com/remote_control.php?time=1735404666&cv=248ed7858510948aab226271ef159aeb&lr=0&cv2=50a58f1b32744f7cd30e7d64d7a3289e&file=%2Fvideos%2F850000%2F850489%2F850489_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=2cf8f0b984788c07ac5652efc2a5fa0a
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg" group-title="ABERTOS",T02EP02
-https://a91.filevideo1.com/remote_control.php?time=1735405270&cv=e197ccb55cb8ddfa243c6677ef8ce2e0&lr=0&cv2=53eb8bba556df23280fb9333f3f08c4b&file=%2Fvideos%2F850000%2F850490%2F850490_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=2e5f0d9928d99053d44bd6e6f53533a4
+https://cdnst69.tokyvideo.com/videos/630/630859/mp4/2619db00c0b12c78fed31f1f255b9c01f46c5599f296774325c94cd92da7b900.mp4?secure=uus4yRv6IHL46IB8o2yzAg%3D%3D%2C1735493126
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg" group-title="ABERTOS",T02EP03
 https://a92.filevideo1.com/remote_control.php?time=1735405420&cv=15596f82824bf96c50443d3abeb796e2&lr=0&cv2=a5b4676aa82beb7d2a3d8685171cfa97&file=%2Fvideos%2F850000%2F850491%2F850491_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=950928c572e01e49cb6b9fcf6966b620
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg" group-title="ABERTOS",T02EP04
