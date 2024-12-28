@@ -7,7 +7,7 @@ https://a91.filevideo1.com/remote_control.php?time=1735346943&cv=625c5f1cb3267eb
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/hM4pm" group-title="ABERTOS",T02EP03
 https://a92.filevideo1.com/remote_control.php?time=1735347125&cv=4e939e03f48e0bdfb53c831d2353beec&lr=0&cv2=3f8d08f6cdc0db1b16af40f6a7f21bd3&file=%2Fvideos%2F850000%2F850491%2F850491_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=950928c572e01e49cb6b9fcf6966b620
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/hM4pm" group-title="ABERTOS",T02EP04
-
+https://a101.filevideo1.com/remote_control.php?time=1735347432&cv=3d2651e3ebccdab737a200c622e974cd&lr=0&cv2=dff2e3a40937b8eebef37bf0b14278d7&file=%2Fvideos%2F850000%2F850493%2F850493_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=b613c809dbdd1d70aebbf89d26954b28
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/hM4pm" group-title="ABERTOS",T02EP05
 
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/hM4pm" group-title="ABERTOS",T02EP06
