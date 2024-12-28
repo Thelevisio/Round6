@@ -13,3 +13,4 @@ https://a101.filevideo1.com/remote_control.php?time=1735347509&cv=2685859c63518d
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/hM4pm" group-title="ABERTOS",T02EP06
 https://a51.filevideo1.com/remote_control.php?time=1735347584&cv=ccb7437b4cdbfd6f76da7dfe92da8b19&lr=0&cv2=e96aa6b5d89d1f263ff64ebf03764700&file=%2Fvideos%2F850000%2F850497%2F850497_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=b747d0ef08b76ba769b9d4673109dd57
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/hM4pm" group-title="ABERTOS",T02EP07
+https://a52.filevideo1.com/remote_control.php?time=1735347685&cv=eab0fe0dd044659f760b175832ec61e9&lr=0&cv2=f625537065eccf9a959ec51daae0087c&file=%2Fvideos%2F850000%2F850498%2F850498_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=6cdd903eeab5ba4c959aee81ee3b34c1
