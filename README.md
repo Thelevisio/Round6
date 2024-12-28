@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg",T02EP01
-https://a102.filevideo1.com/remote_control.php?time=1735404666&cv=248ed7858510948aab226271ef159aeb&lr=0&cv2=50a58f1b32744f7cd30e7d64d7a3289e&file=%2Fvideos%2F850000%2F850489%2F850489_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=2cf8f0b984788c07ac5652efc2a5fa0a
+https://round6x.vidfile.cloud/R/round-6/01-temporada/01/stream.m3u8
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg",T02EP02
 https://cdnst69.tokyvideo.com/videos/630/630859/mp4/2619db00c0b12c78fed31f1f255b9c01f46c5599f296774325c94cd92da7b900.mp4?secure=uus4yRv6IHL46IB8o2yzAg%3D%3D%2C1735493126
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg",T02EP03
