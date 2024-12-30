@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP01
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248603.mp4
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP02
@@ -19,7 +20,6 @@ http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248610.mp4
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248611.mp4
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP10
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248612.mp4	
- 
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg",T02EP01
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/639941.mp4
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg",T02EP02
