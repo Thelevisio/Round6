@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP01
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248603.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP02
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248604.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP03
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248605.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP04
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248606.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP05
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248607.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP06
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248608.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP07
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248609.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP08
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248610.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP09
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248611.mp4
+#EXTINF:-1 tvg-name="Round 6" tvg-logo="https://encurtador.com.br/IHcU0",T01EP10
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/248612.mp4	
  
 #EXTINF:-1 tvg-name="Round 6" tvg-logo="https://cinepop.com.br/wp-content/uploads/2024/11/round-6-poster.jpg",T02EP01
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/639941.mp4
